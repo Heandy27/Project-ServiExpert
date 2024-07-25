@@ -42,8 +42,8 @@ Esta estructura garantiza que tanto proveedores como clientes tengan una experie
 Puedes ver una demo del sitio web aquí: https://sample-service-name-h047.onrender.com/
 
 <hr></hr>
-
-<br>Gracias por visitar mi sitio web. Si quieres saber más sobre mí o mi trabajo, puedes encontrarme en esta red social:</br>
+Gracias por visitar mi sitio web. Si quieres saber más sobre mí o mi trabajo, puedes encontrarme en estas redes social:<br></br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heandy27/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Heandy27)
 
