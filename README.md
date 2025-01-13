@@ -4,28 +4,28 @@
 ![](https://github.com/Heandy27/Project-ServiExpert/blob/main/ServiExpert.jpg)
 
 
-# Descripción
+# Description
 
-Consiste en un sitio web donde personas con distintas profesiones u oficios, como por ejemplo, plomeros, carpinteros, cerrajeros, etc., pueden ofrecer sus servicios a los usuarios o clientes que se registren en el sitio. En este sentido la plataforma pretende ser un enlace entre personas que necesitan algún servicio en especifico y las personas que están dispuestas a cubrir esta necesidad.
+This is a website where people with different professions or trades, such as plumbers, carpenters, locksmiths, etc., can offer their services to users or clients who register on the site. The platform aims to be a link between people who need a specific service and those who are willing to fulfill this need.
 
-# Uso
+# Usage
 
-El uso de la aplicación web requiere un registro inicial, permitiendo a los usuarios elegir su rol según sus necesidades: proveedor de servicios o cliente que desea contratar servicios.
+Using the web application requires an initial registration, allowing users to choose their role based on their needs: service provider or client wishing to hire services.
 
-<strong>Para proveedores:</strong>
+<strong>For Providers:</strong>
 <ul>
-<li>Tienen acceso a un dashboard personalizado donde pueden completar su perfil y publicar sus servicios en la plataforma.</li>
-<li>Pueden gestionar sus servicios y actualizar información relevante para atraer clientes.</li>
+<li>They have access to a personalized dashboard where they can complete their profile and post their services on the platform.</li>
+<li>They can manage their services and update relevant information to attract clients.</li>
 </ul>
-<strong>Para clientes:</strong>
+<strong>For Clients:</strong>
 <ul>
-<li>Disponen de un dashboard personalizado donde pueden ver y gestionar sus datos.</li>
-<li>Tienen acceso a una página de servicios que muestra todos los proveedores disponibles, con filtros que permiten buscar por ubicación, precio y tipo de categoría del servicio.</li>
+<li>They have access to a personalized dashboard where they can view and manage their data.</li>
+<li>They can browse a service page showing all available providers, with filters that allow searching by location, price, and type of service category.</li>
 </ul>
 
-Esta estructura garantiza que tanto proveedores como clientes tengan una experiencia optimizada y eficiente al usar la aplicación.
+This structure ensures that both providers and clients have an optimized and efficient experience using the application.
 
-# Tecnologías Utilizadas
+# Technologies Used
 
 <ul>
 <li>Html</li>
@@ -39,10 +39,10 @@ Esta estructura garantiza que tanto proveedores como clientes tengan una experie
 
 # Demo
 
-Puedes ver una demo del sitio web aquí: https://sample-service-name-h047.onrender.com/
+You can view a demo of the website here: https://sample-service-name-h047.onrender.com/
 
 <hr></hr>
-Gracias por visitar mi sitio web. Si quieres saber más sobre mí o mi trabajo, puedes encontrarme en estas redes social:<br></br>
+Thank you for reviewing my app. If you want to know more about me or my work, you can find me on these social networks:<br></br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heandy27/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Heandy27)
